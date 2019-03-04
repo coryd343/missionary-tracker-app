@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">MissionaryTracker</string>
+    <string name="app_name">Missionary Tracker</string>
+    <string name="home_title">Home</string>
+    <string name="search">Search</string>
+    <string name="favorites_button">Favorites</string>
+    <string name="refresh_button">Refresh</string>
+    <string name="summary_prayer_requests">Prayer Requests</string>
+    <string name="summary_praises">Praises</string>
+
+    <string name="ep_base_url">missionary-tracker.herokuapp.com</string>
+    <string name="ep_random_missionary">getRandomMissionary</string>
 </resources>
